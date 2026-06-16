@@ -1,0 +1,46 @@
+[
+  {
+    "id": "a9b60eea-a12b-4499-bc8e-88c765f774ac",
+    "userId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "title": "Voting Telah Dimulai",
+    "message": "Pemilihan Ketua Umum 2026-2028 telah dimulai. Segera berikan suara Anda!",
+    "type": "info",
+    "isRead": true,
+    "link": "/polls/f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "createdAt": "2026-05-17T07:32:54.200Z",
+    "updatedAt": "2026-05-17T07:32:54.200Z"
+  },
+  {
+    "id": "f9f8d045-eb74-4d3b-8f3a-5b6d09801e5a",
+    "userId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "title": "Hasil Voting Telah Dirilis",
+    "message": "Hasil Pemilihan Ketua Umum telah dirilis. Klik untuk melihat hasil.",
+    "type": "success",
+    "isRead": false,
+    "link": "/polls/f695fd60-ecf9-4f87-852e-ef57789bc2d6/results",
+    "createdAt": "2026-06-02T07:32:54.200Z",
+    "updatedAt": "2026-06-02T07:32:54.200Z"
+  },
+  {
+    "id": "6899a3b6-2f5f-41bb-963b-b4d5fa299f82",
+    "userId": "d6789f8c-0387-498d-b104-74edb21c7a3b",
+    "title": "Pengumuman Baru",
+    "message": "Pengumuman mengenai rapat evaluasi telah dipublikasikan.",
+    "type": "info",
+    "isRead": false,
+    "link": "/announcements",
+    "createdAt": "2026-06-09T07:32:54.200Z",
+    "updatedAt": "2026-06-09T07:32:54.200Z"
+  },
+  {
+    "id": "5d874bd0-00b8-43ad-a4c0-ffe88893f368",
+    "userId": "0af7ccfe-b251-4e39-a3d6-3edf45df4e53",
+    "title": "Anggota Baru Mendaftar",
+    "message": "Terdapat anggota baru yang perlu diverifikasi.",
+    "type": "warning",
+    "isRead": false,
+    "link": "/members",
+    "createdAt": "2026-06-13T07:32:54.200Z",
+    "updatedAt": "2026-06-13T07:32:54.200Z"
+  }
+]

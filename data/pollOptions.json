@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "name": "Ahmad Fauzi",
+    "description": "Calon nomor 1",
+    "visiMisi": "Memajukan organisasi dengan program kerja inovatif",
+    "urutan": 1,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "e5d44e5c-bbba-425f-9c04-724654e0e82b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "name": "Budi Santoso",
+    "description": "Calon nomor 2",
+    "visiMisi": "Penguatan organisasi berbasis anggota",
+    "urutan": 2,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "bdeea264-a6b9-4973-ab19-052748c2130b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "name": "Citra Dewi",
+    "description": "Calon nomor 3",
+    "visiMisi": "Transparansi dan profesionalisme organisasi",
+    "urutan": 3,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "ac247cfe-7e1d-4419-bbfb-f0755afad2e9",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "name": "Dian Permata",
+    "description": "Calon nomor 4",
+    "visiMisi": "Digitalisasi organisasi untuk era modern",
+    "urutan": 4,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "c24bc435-35d6-4efd-9112-dbaecf6d02b0",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "name": "Setuju",
+    "description": "Menyetujui rancangan anggaran",
+    "urutan": 1,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "927858c7-2c10-4091-91a8-82212f581fad",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "name": "Tidak Setuju",
+    "description": "Menolak rancangan anggaran",
+    "urutan": 2,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "f4d68e67-7886-446f-a20d-b2123aec1700",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "name": "Abstain",
+    "description": "Tidak memberikan suara",
+    "urutan": 3,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "7b6527f9-21a8-4272-b7b5-d167357ec6d1",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "name": "Program Kaderisasi",
+    "description": "Program pembinaan kader",
+    "urutan": 1,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "1b444507-2018-40c9-9fce-91b23cb4f398",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "name": "Program Sosial",
+    "description": "Program pengabdian masyarakat",
+    "urutan": 2,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "fad519e9-7a7e-44f5-be2e-53212a1e243f",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "name": "Program Pendidikan",
+    "description": "Program pelatihan dan workshop",
+    "urutan": 3,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "51ef4ac4-ee5d-41b0-b8e9-abe4aa93ad53",
+    "pollId": "8eccac21-1cc3-4356-b5c1-3e7e72658cc0",
+    "name": "Koordinator A",
+    "description": "Kandidat koordinator divisi A",
+    "urutan": 1,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "59bc456e-1d99-4f97-911f-4b46662f05c1",
+    "pollId": "8eccac21-1cc3-4356-b5c1-3e7e72658cc0",
+    "name": "Koordinator B",
+    "description": "Kandidat koordinator divisi B",
+    "urutan": 2,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  }
+]

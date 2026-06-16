@@ -1,0 +1,46 @@
+[
+  {
+    "id": "org-pusat",
+    "name": "Pengurus Pusat",
+    "description": "Pengurus tingkat pusat",
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z",
+    "isActive": true
+  },
+  {
+    "id": "org-jakarta",
+    "name": "DPD Jakarta",
+    "description": "DPD DKI Jakarta",
+    "parentId": "org-pusat",
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z",
+    "isActive": true
+  },
+  {
+    "id": "org-bandung",
+    "name": "DPD Bandung",
+    "description": "DPD Kota Bandung",
+    "parentId": "org-pusat",
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z",
+    "isActive": true
+  },
+  {
+    "id": "org-surabaya",
+    "name": "DPD Surabaya",
+    "description": "DPD Kota Surabaya",
+    "parentId": "org-pusat",
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z",
+    "isActive": true
+  },
+  {
+    "id": "org-yogya",
+    "name": "DPD Yogyakarta",
+    "description": "DPD DI Yogyakarta",
+    "parentId": "org-pusat",
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z",
+    "isActive": true
+  }
+]

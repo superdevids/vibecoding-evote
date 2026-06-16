@@ -1,0 +1,33 @@
+[
+  {
+    "id": "46de4080-5822-462b-99ae-ecc3d81756a0",
+    "title": "Pembukaan Masa Voting Pemilihan Ketua Umum 2026-2028",
+    "content": "Yth. Seluruh Anggota,\n\nDengan ini diumumkan bahwa masa voting Pemilihan Ketua Umum periode 2026-2028 telah dibuka. Silakan login ke aplikasi EVote untuk memberikan suara Anda.\n\nMasa voting: 15 Jan 2026 - 30 Jan 2026.\n\nTerima kasih atas partisipasi Anda.",
+    "isPinned": true,
+    "readBy": [],
+    "createdBy": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "createdAt": "2026-05-17T07:32:54.200Z",
+    "updatedAt": "2026-05-17T07:32:54.200Z"
+  },
+  {
+    "id": "1ca083f7-7b8f-4922-9baa-dcbcc425db7b",
+    "title": "Hasil Pemilihan Ketua Umum 2026-2028",
+    "content": "Yth. Seluruh Anggota,\n\nHasil Pemilihan Ketua Umum periode 2026-2028 telah dirilis. Silakan lihat halaman hasil voting untuk detail lengkap.\n\nBerita acara hasil voting dapat diunduh dalam format PDF.\n\nTerima kasih.",
+    "isPinned": true,
+    "readBy": [],
+    "createdBy": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "createdAt": "2026-06-02T07:32:54.200Z",
+    "updatedAt": "2026-06-02T07:32:54.200Z"
+  },
+  {
+    "id": "94bc9bb9-4f14-46dd-8a29-e1ba071a9107",
+    "title": "Pengumuman Rapat Evaluasi",
+    "content": "Yth. Anggota DPD Jakarta,\n\nRapat evaluasi program kerja akan dilaksanakan pada:\nHari/Tanggal: Sabtu, 1 Feb 2026\nWaktu: 10:00 WIB\nTempat: Ruang Rapat Utama\n\nMohon kehadiran tepat waktu.",
+    "targetOrganizationUnitId": "org-jakarta",
+    "isPinned": false,
+    "readBy": [],
+    "createdBy": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "createdAt": "2026-06-09T07:32:54.200Z",
+    "updatedAt": "2026-06-09T07:32:54.200Z"
+  }
+]

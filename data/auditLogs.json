@@ -1,0 +1,47 @@
+[
+  {
+    "id": "3d2a808e-07c8-45fa-9b49-cb082f49173d",
+    "userId": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "action": "CREATE",
+    "resource": "polls",
+    "resourceId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "after": "{\"title\":\"Pemilihan Ketua Umum 2026-2028\"}",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  },
+  {
+    "id": "e1699056-bbc2-451c-8614-99799a7549d1",
+    "userId": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "action": "PUBLISH",
+    "resource": "polls",
+    "resourceId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "before": "{\"status\":\"Draft\"}",
+    "after": "{\"status\":\"Scheduled\"}",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "12728792-4f0c-4c6a-94c9-9ed382b0d98b",
+    "userId": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "action": "CLOSE",
+    "resource": "polls",
+    "resourceId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "before": "{\"status\":\"Ongoing\"}",
+    "after": "{\"status\":\"Closed\"}",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-06-01T07:32:54.200Z",
+    "updatedAt": "2026-06-01T07:32:54.200Z"
+  },
+  {
+    "id": "388430e0-5839-4cc7-9ef1-8d1d22320f2e",
+    "userId": "e37bcb3e-ab30-4a59-9f79-f112c63fd56c",
+    "action": "LOGIN",
+    "resource": "auth",
+    "resourceId": "e37bcb3e-ab30-4a59-9f79-f112c63fd56c",
+    "ip": "127.0.0.1",
+    "createdAt": "2026-06-15T07:32:54.200Z",
+    "updatedAt": "2026-06-15T07:32:54.200Z"
+  }
+]

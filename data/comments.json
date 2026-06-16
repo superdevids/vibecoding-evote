@@ -1,0 +1,40 @@
+[
+  {
+    "id": "66e94bf4-7b01-4bf7-a658-27669382f601",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "memberId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "content": "Semoga pemilihan berjalan lancar dan menghasilkan pemimpin terbaik!",
+    "isHidden": false,
+    "createdAt": "2026-05-19T07:32:54.200Z",
+    "updatedAt": "2026-05-19T07:32:54.200Z"
+  },
+  {
+    "id": "c02150b0-06ee-4898-9353-9ffae2a2f7eb",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "memberId": "235bd40d-57ba-4b23-9736-ac7978219fc9",
+    "content": "Saya mendukung calon nomor 2 karena program kerjanya yang jelas.",
+    "isHidden": false,
+    "createdAt": "2026-05-22T07:32:54.200Z",
+    "updatedAt": "2026-05-22T07:32:54.200Z"
+  },
+  {
+    "id": "2e37142a-afaa-4c8d-bf2b-eee9f1789e31",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "memberId": "a83a522f-2a8d-4a8d-bef7-644da11a4cd6",
+    "content": "Mohon pastikan data pemilih sudah sesuai.",
+    "isHidden": false,
+    "createdAt": "2026-05-25T07:32:54.200Z",
+    "updatedAt": "2026-05-25T07:32:54.200Z"
+  },
+  {
+    "id": "8bbe8f74-a760-4683-b504-270e1ca54539",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "memberId": "7a001f88-2f86-4b6d-94ee-270bb547c8f6",
+    "content": "Komentar yang tidak pantas (telah dihapus)",
+    "isHidden": true,
+    "hiddenReason": "Mengandung ujaran kebencian",
+    "hiddenBy": "346c8fbf-0970-4e39-beaf-de0e63b024ca",
+    "createdAt": "2026-05-27T07:32:54.200Z",
+    "updatedAt": "2026-05-29T07:32:54.200Z"
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "id": "0b6fce83-3de1-4de7-b265-1ac6de536b29",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "f6e67b24-cd78-4ac8-a8e7-16c8a178bac6",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "0398e753-2f7a-40c4-9164-252178f681ef",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "0af7ccfe-b251-4e39-a3d6-3edf45df4e53",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "eafde38e-f64e-49ff-9512-b36a04466fc3",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "0af7ccfe-b251-4e39-a3d6-3edf45df4e53",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "85237790-f799-4527-82ff-81e1e5fb12f8",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "9d61a0c8-e0ed-4782-a7a5-81d248e3b87b",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "b2984f00-41b5-42ca-8467-36f9e59e40bd",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "9d61a0c8-e0ed-4782-a7a5-81d248e3b87b",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "7ffb46f1-b951-4264-9773-1b0b62a9179b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "b8922bae-af73-494c-a92f-ff9cf2187819",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "de9889cf-b2ec-4203-83fb-09a7e61f2e5d",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "b8922bae-af73-494c-a92f-ff9cf2187819",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "19b45c3a-189a-4df5-8314-380ecfce144b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "235bd40d-57ba-4b23-9736-ac7978219fc9",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "d7ffd826-503d-499e-b368-88f9979024cd",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "235bd40d-57ba-4b23-9736-ac7978219fc9",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "bb245009-cbf7-4cc3-b31b-d887cf2f5daa",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "b43d949b-991b-47af-855b-fa24181ff5c0",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "973a5590-4d4f-4283-bf5f-0fdc97a1c79d",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "b43d949b-991b-47af-855b-fa24181ff5c0",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "80f70c75-d438-488b-ae38-acfb7cc8ef4e",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "f198559a-1c76-45d9-8b20-2093d977f549",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "bbccff90-6c9c-4d04-a776-a7f45a7a5621",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "f198559a-1c76-45d9-8b20-2093d977f549",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "63292fe9-42e8-4766-b922-ff875e1cf49d",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "6b7f1297-960e-42d3-9662-d062d911b598",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "2ea81a82-7019-46dc-9bb9-2bbaa8ace6aa",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "6b7f1297-960e-42d3-9662-d062d911b598",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "a97a14f0-5b12-4906-a141-c3b5ae363237",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "a83a522f-2a8d-4a8d-bef7-644da11a4cd6",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "595ea88a-4ff4-459a-94d6-a34cf2f67fff",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "a83a522f-2a8d-4a8d-bef7-644da11a4cd6",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "dc96fcbd-39f3-4914-bd37-d87a0f8b0c67",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "f311b068-f59d-4a6c-b10a-831ba1dd7a54",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "155008f8-f7df-4dc3-9e85-9bf3ff4840aa",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "f311b068-f59d-4a6c-b10a-831ba1dd7a54",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "dd34c1a4-010e-4c56-bea6-11ef7739b7c3",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "73cd3d4f-9572-4312-b08e-77df28a6c760",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "3cd2c969-1b93-4df4-ba59-d6ede1cc4c39",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "73cd3d4f-9572-4312-b08e-77df28a6c760",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "a3abc40c-e4f2-480c-afca-0b6b01b6566e",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "98c8fb14-04b9-4ed7-a1fa-4bcec94f64da",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "d0af887f-95e8-40f7-9b12-87927f0b37ca",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "98c8fb14-04b9-4ed7-a1fa-4bcec94f64da",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "968430f0-4a08-41ad-aff9-a0e334b0ecbe",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "ce20dba2-02d5-4ec4-a233-1adf6361b16f",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "1ba4ae5c-b0e9-4888-ab47-9a02ac87b9e4",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "ce20dba2-02d5-4ec4-a233-1adf6361b16f",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "00553be0-1713-41a4-b348-ab7f4bf03237",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "584fd92d-8163-4da9-ba75-c45cd64f3ad1",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "f1643c6c-a7d0-4a47-9d4f-37530fe116a8",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "584fd92d-8163-4da9-ba75-c45cd64f3ad1",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "bd0299ef-47bd-4db7-ba8b-5ee12a49f8c7",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "e2d60e9a-20b8-48f5-8859-8da66c64f357",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "caeafcdb-f567-4fce-992e-05407ab07c16",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "e2d60e9a-20b8-48f5-8859-8da66c64f357",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "42df0cf2-987f-4e3b-96c1-ba26d4234b51",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "7f876533-f60b-44bd-ae3f-a00321aa425b",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "971909fe-4b6e-47c7-815b-b9b542f98afd",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "7f876533-f60b-44bd-ae3f-a00321aa425b",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "356c0542-f9bc-49d6-86e4-13f2570ff34a",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "f80ed10d-7385-4447-ad49-e551d3ca62e3",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "8f1c5fbe-842e-4c7e-b722-936a05b9feed",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "f80ed10d-7385-4447-ad49-e551d3ca62e3",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "5af06a27-8ce6-43f3-8e1e-9241eafd225e",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "eb7bc9d1-5fd5-4423-bf95-6462703cee20",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "df171076-9be2-4616-8457-80dcb60472f4",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "eb7bc9d1-5fd5-4423-bf95-6462703cee20",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "47d795a6-7378-45bd-b145-8115d405a09d",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "afc298a2-bd65-4cc4-904f-dfa5dbd7c928",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "42920e23-c088-43b1-a141-c75081ee94b6",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "afc298a2-bd65-4cc4-904f-dfa5dbd7c928",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "bf1aaa4d-7614-4769-8702-682feacdcfca",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "c0fa769e-edb3-4fe0-a944-c4041f506f24",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "667630e4-7d58-4b8e-a6f7-7c5c7d4eb802",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "c0fa769e-edb3-4fe0-a944-c4041f506f24",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "a332ec06-02c2-4d9e-90cc-c42ab9a3528b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "ad66ac3c-94e1-421e-a4a9-73952eacfd0f",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "51b1632b-378c-4de9-bd8c-b792bd251026",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "ad66ac3c-94e1-421e-a4a9-73952eacfd0f",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "f832cffb-ad96-42a4-bb47-11705fc7ccbc",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "4f1401db-027f-4943-abea-c2c1d483571b",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "b300cd80-c7c9-442e-b623-cd36cceaab97",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "4f1401db-027f-4943-abea-c2c1d483571b",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "0eff7d03-e6ee-4058-82ca-fe8dc180b4e9",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "4d2e035b-9b7d-42ba-9e8e-a1090122c5e1",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "2d461fd7-cc38-4a5f-93da-51d509019100",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "4d2e035b-9b7d-42ba-9e8e-a1090122c5e1",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "1ba46a79-6640-4c53-a246-ad91654852d9",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "c54ba702-58d7-4eca-ab03-a4132e1a0d56",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "1ddc5b65-e3f1-45b8-8615-1bbcc7827a71",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "c54ba702-58d7-4eca-ab03-a4132e1a0d56",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "f57b2e4b-37bd-45fa-a1eb-8c1a4f396b6f",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "type": "member",
+    "referenceId": "4ad8e1ed-8aa9-4a0c-a168-a14295e3c310",
+    "createdAt": "2026-05-07T07:32:54.200Z",
+    "updatedAt": "2026-05-07T07:32:54.200Z"
+  },
+  {
+    "id": "58921c0a-1c48-4ffc-b155-d514f940160a",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "type": "member",
+    "referenceId": "4ad8e1ed-8aa9-4a0c-a168-a14295e3c310",
+    "createdAt": "2026-06-04T07:32:54.200Z",
+    "updatedAt": "2026-06-04T07:32:54.200Z"
+  },
+  {
+    "id": "78bdb444-0188-41c1-af6e-194931f91268",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "a98ebb2d-fd6c-4ce4-a5e6-e6bf424f8c1a",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "3976b2c7-1311-4ce7-b795-f55b203dcdfa",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "0af7ccfe-b251-4e39-a3d6-3edf45df4e53",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "36e2d84f-8ffd-4d1a-8e57-958ba16e19a5",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "9d61a0c8-e0ed-4782-a7a5-81d248e3b87b",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "0b21ab1a-be87-4cc3-87de-c5ad1f13d842",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "b8922bae-af73-494c-a92f-ff9cf2187819",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "078a24c2-495c-42d9-9f91-bd8a30787c82",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "235bd40d-57ba-4b23-9736-ac7978219fc9",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "41c23a5e-e7f0-4150-bcac-646ca359b0d9",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "b43d949b-991b-47af-855b-fa24181ff5c0",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "01b75602-1e05-46cc-8303-1550e3641a6b",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "f198559a-1c76-45d9-8b20-2093d977f549",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "a96817bd-a20c-4ea3-ae78-69355bab07f9",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "6b7f1297-960e-42d3-9662-d062d911b598",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "ff7ef15c-03a1-4586-80ee-534367ae006e",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "a83a522f-2a8d-4a8d-bef7-644da11a4cd6",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "42492284-e851-4e05-9dc6-81a87d7fec53",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "f311b068-f59d-4a6c-b10a-831ba1dd7a54",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "5032624c-7641-4289-ad53-db0aaa8f7d03",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "73cd3d4f-9572-4312-b08e-77df28a6c760",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  },
+  {
+    "id": "3413a7fd-46c5-4ca3-b80b-ec4e30828324",
+    "pollId": "d0b988e4-f8f4-4cb6-9a96-1a71601ed451",
+    "type": "member",
+    "referenceId": "98c8fb14-04b9-4ed7-a1fa-4bcec94f64da",
+    "createdAt": "2026-06-08T07:32:54.200Z",
+    "updatedAt": "2026-06-08T07:32:54.200Z"
+  }
+]

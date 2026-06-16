@@ -1,0 +1,522 @@
+[
+  {
+    "id": "65f382fa-0635-4cda-8684-b83cf1a6e275",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "c9e2ae00-22e7-4ddf-9796-a714eccb015c",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "0657abaac9ec7c8cd3d11a0c5f86d3808fa482d2ed8ad5fe7f4c1b06d055f776",
+    "receiptHash": "A486961CE335E05567B84BE3677DC0DE",
+    "timestamp": "2026-05-27T07:32:54.200Z",
+    "createdAt": "2026-05-27T07:32:54.200Z",
+    "updatedAt": "2026-05-27T07:32:54.200Z"
+  },
+  {
+    "id": "8859bf01-f55a-418e-8b0d-1f7f6f8354a7",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "fcef203c-b30d-49d1-b5de-aa4618ee563a",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "e207534cf8fa24d5f466b18c4762ab3cc3794db1bc0cd3ad7a22d3215da23756",
+    "receiptHash": "3B52F03E9282163ECC0C96ED7304C19D",
+    "timestamp": "2026-05-26T08:32:54.200Z",
+    "createdAt": "2026-05-26T08:32:54.200Z",
+    "updatedAt": "2026-05-26T08:32:54.200Z"
+  },
+  {
+    "id": "865b9113-c7ff-483e-b06a-2efdc9960018",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "dee47d3e-75bc-4fe2-8750-ee0e52fd884a",
+    "optionIds": [
+      "ac247cfe-7e1d-4419-bbfb-f0755afad2e9"
+    ],
+    "hash": "fa78f72814ffac4f8fd10a0329835873995b79594df303e5c8472d777b920a0f",
+    "receiptHash": "572751B11E23E232DB4A7DF2A5F106AA",
+    "timestamp": "2026-05-25T09:32:54.200Z",
+    "createdAt": "2026-05-25T09:32:54.200Z",
+    "updatedAt": "2026-05-25T09:32:54.200Z"
+  },
+  {
+    "id": "e778d297-4cfc-4a74-a4bb-6a4f35772f03",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "e6105939-c542-4b7c-ad0f-3bfb3053ce89",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "ed5ed8eca27a1b42d106180622df2b91a3a312eed2b320fc233aeeb58b4021e2",
+    "receiptHash": "1B1A7F81626336511AB7E662D5C9B6E2",
+    "timestamp": "2026-05-24T10:32:54.200Z",
+    "createdAt": "2026-05-24T10:32:54.200Z",
+    "updatedAt": "2026-05-24T10:32:54.200Z"
+  },
+  {
+    "id": "555ffda1-de3e-4caa-a9a9-31275b250423",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "1621b72e-a4e5-4c11-864c-486d76503014",
+    "optionIds": [
+      "ac247cfe-7e1d-4419-bbfb-f0755afad2e9"
+    ],
+    "hash": "fe41f7f7bcae98134b2938bb9364fcadad89a46e236babbbcb7c2540ed09b72f",
+    "receiptHash": "45B19052A3C825EF86C2652FA8224EF0",
+    "timestamp": "2026-05-23T11:32:54.200Z",
+    "createdAt": "2026-05-23T11:32:54.200Z",
+    "updatedAt": "2026-05-23T11:32:54.200Z"
+  },
+  {
+    "id": "409af61b-6f1f-4804-99a8-8624eda998d8",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "46e95c23-25bb-491a-b264-fb605a02d0ed",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "9b1b58444200f116394917c093430d94fc092b7c05ab2c68c64770dcea71a33d",
+    "receiptHash": "EEF8C6586E7F979BB1BC40771D0C4052",
+    "timestamp": "2026-05-22T12:32:54.200Z",
+    "createdAt": "2026-05-22T12:32:54.200Z",
+    "updatedAt": "2026-05-22T12:32:54.200Z"
+  },
+  {
+    "id": "cc3ea3db-d4c8-4e50-ad73-3f9d90f0812b",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "e40c86a7-0fb1-4e52-ac68-1bbe28faa9b0",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "a2a3f400a79041aa95ad4232eb626e5ce5db8f2ebe7192de0e4b285f874638b7",
+    "receiptHash": "DF9936A786BE50FE3C0F9B264F4ABBD0",
+    "timestamp": "2026-05-21T13:32:54.200Z",
+    "createdAt": "2026-05-21T13:32:54.200Z",
+    "updatedAt": "2026-05-21T13:32:54.200Z"
+  },
+  {
+    "id": "b5b067c0-4851-4603-aa4e-2e904cd707f1",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "444a404b-58bd-43a5-9e37-20efa0a6b09c",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "ba6b64ce34a448b1d7ab4a03f3eecc37d9cf5f9a7b2ba6f38ec0a26a06562b45",
+    "receiptHash": "2C43E31B52B7D2A0AA36F41F9A201927",
+    "timestamp": "2026-05-20T14:32:54.200Z",
+    "createdAt": "2026-05-20T14:32:54.200Z",
+    "updatedAt": "2026-05-20T14:32:54.200Z"
+  },
+  {
+    "id": "801a8f8e-3263-4c75-8188-1d8aba470e44",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "233848f1-1e32-44c4-b698-f3e7719195ef",
+    "optionIds": [
+      "e5d44e5c-bbba-425f-9c04-724654e0e82b"
+    ],
+    "hash": "1af74cf65dec633ac8e7dbec94f94d31132085e6f0e39edb8c0f41604989ecc7",
+    "receiptHash": "4FAF8139B72C83BF6C4A4E3FCD907428",
+    "timestamp": "2026-05-19T15:32:54.200Z",
+    "createdAt": "2026-05-19T15:32:54.200Z",
+    "updatedAt": "2026-05-19T15:32:54.200Z"
+  },
+  {
+    "id": "eef1b1a0-d334-4de4-9cad-b7f2756b69a6",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "c1c8c995-17fc-415b-9675-c14a258997e1",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "a25b8704fc8553d80eaf1a8910513fe53458c31434febc76657591f1d26d189b",
+    "receiptHash": "AE32D0ADCBF7BAB8B53648D679BD5A7F",
+    "timestamp": "2026-05-18T16:32:54.200Z",
+    "createdAt": "2026-05-18T16:32:54.200Z",
+    "updatedAt": "2026-05-18T16:32:54.200Z"
+  },
+  {
+    "id": "4a8d299c-e717-45da-b536-7d5388cd0a3c",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "8510ad92-39f4-4b18-adc6-8033c21832cc",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "afb65eb9c1d07ce46faa8d46292d62d61eccc2a163c2c689df461a4922f0d1ff",
+    "receiptHash": "51C86E80E54A5BBD74BDDBDCD9CD8409",
+    "timestamp": "2026-05-17T17:32:54.200Z",
+    "createdAt": "2026-05-17T17:32:54.200Z",
+    "updatedAt": "2026-05-17T17:32:54.200Z"
+  },
+  {
+    "id": "9adc165e-666a-4bb2-8530-3b441755845e",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "60fc9053-a3b7-47fd-9654-bf7e23f00037",
+    "optionIds": [
+      "bdeea264-a6b9-4973-ab19-052748c2130b"
+    ],
+    "hash": "a3d358770400b44e883eb9ca45e613f80e947dd40dd74d702f9afd2c8fb9f940",
+    "receiptHash": "B8D36EF70FB5C3CC62218E6C422BD088",
+    "timestamp": "2026-05-16T18:32:54.200Z",
+    "createdAt": "2026-05-16T18:32:54.200Z",
+    "updatedAt": "2026-05-16T18:32:54.200Z"
+  },
+  {
+    "id": "cc38091e-a061-4433-8c07-5b3de74adccb",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "f0756a78-4c37-474e-a735-87c26a08fa64",
+    "optionIds": [
+      "ac247cfe-7e1d-4419-bbfb-f0755afad2e9"
+    ],
+    "hash": "eea9cb56193695b29e33386dccbc52174beb89c62cbce5a7c67b2351c6a099fe",
+    "receiptHash": "4C2537E3C204DB269AD33A9E01B1D5F4",
+    "timestamp": "2026-05-15T19:32:54.200Z",
+    "createdAt": "2026-05-15T19:32:54.200Z",
+    "updatedAt": "2026-05-15T19:32:54.200Z"
+  },
+  {
+    "id": "44220948-9f19-4024-84ca-bdd307b8a1a4",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "cc437bd5-ec83-4ecb-8778-130e9f598c66",
+    "optionIds": [
+      "ac247cfe-7e1d-4419-bbfb-f0755afad2e9"
+    ],
+    "hash": "58594d875b5635248923ef806b59468f4361a2484b199ae8a242fddb7892c2b5",
+    "receiptHash": "46CD9D62A2AF5B81131BA677465EAD71",
+    "timestamp": "2026-05-14T20:32:54.200Z",
+    "createdAt": "2026-05-14T20:32:54.200Z",
+    "updatedAt": "2026-05-14T20:32:54.200Z"
+  },
+  {
+    "id": "efd5d5af-8f4e-4ce0-a0eb-6035de5fde3e",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "63465f9e-dc65-4cb4-b0d6-ac2be2552d52",
+    "optionIds": [
+      "e5d44e5c-bbba-425f-9c04-724654e0e82b"
+    ],
+    "hash": "b4d0be1c7b1800ccb2d5abc97734d95b2e60a9a5ff24292ce80c39fd0ea00ca4",
+    "receiptHash": "21E616221C73D7BF4C5DAA2CE11807D4",
+    "timestamp": "2026-05-13T21:32:54.200Z",
+    "createdAt": "2026-05-13T21:32:54.200Z",
+    "updatedAt": "2026-05-13T21:32:54.200Z"
+  },
+  {
+    "id": "f9979a55-0ad8-43b4-850f-239bb6b64fc8",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "6663e36d-2379-4b05-b364-5b948859673c",
+    "optionIds": [
+      "e5d44e5c-bbba-425f-9c04-724654e0e82b"
+    ],
+    "hash": "b462fca027d707dbcd902c6776db0c41914bb178d037371448f00254b1a8895f",
+    "receiptHash": "5F617A6DCA735D3943A9BAC07C59C6EE",
+    "timestamp": "2026-05-12T22:32:54.200Z",
+    "createdAt": "2026-05-12T22:32:54.200Z",
+    "updatedAt": "2026-05-12T22:32:54.200Z"
+  },
+  {
+    "id": "2a127c75-2869-4094-bb27-5f70929d7e20",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "1b42f597-f3a2-48f4-8505-2566f04b9671",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "c400d758db0b19dd838acd537b226a7efb8ee85ee86cd1710c3d9e31caff256e",
+    "receiptHash": "1AA98CA9F3D360B8C4FCBE067143B0FC",
+    "timestamp": "2026-05-11T23:32:54.200Z",
+    "createdAt": "2026-05-11T23:32:54.200Z",
+    "updatedAt": "2026-05-11T23:32:54.200Z"
+  },
+  {
+    "id": "fabc92ed-bb95-46d8-832d-50fa8bcf12a0",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "ae1cf699-6de6-4aa0-8582-763260be91ea",
+    "optionIds": [
+      "e5d44e5c-bbba-425f-9c04-724654e0e82b"
+    ],
+    "hash": "650e3556c6e6fc40f36412c40e23eb0be4d55fddb0fbaf08a582d609852b1edb",
+    "receiptHash": "641FE3EEAC5DDA52A2C32F24179F3229",
+    "timestamp": "2026-05-11T00:32:54.200Z",
+    "createdAt": "2026-05-11T00:32:54.200Z",
+    "updatedAt": "2026-05-11T00:32:54.200Z"
+  },
+  {
+    "id": "3fc526c7-ff39-4c2c-b32d-3c621beb8941",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "7fad1857-5809-4e3e-b5f1-170634998fa8",
+    "optionIds": [
+      "bdeea264-a6b9-4973-ab19-052748c2130b"
+    ],
+    "hash": "cb3e2112c4ac15020f21f2098fc4edfbbb700530131ae81ead66304c79b46087",
+    "receiptHash": "CE6EA490D7871500D95DBA2D5AD09A34",
+    "timestamp": "2026-05-10T01:32:54.200Z",
+    "createdAt": "2026-05-10T01:32:54.200Z",
+    "updatedAt": "2026-05-10T01:32:54.200Z"
+  },
+  {
+    "id": "69f48c33-700f-4468-b47a-38611dffa497",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "e4db3278-0e98-4004-9c34-6022bf4f4df0",
+    "optionIds": [
+      "bdeea264-a6b9-4973-ab19-052748c2130b"
+    ],
+    "hash": "14fe9a9647796edd65e5b525e72fa8af504b67c9a9d389d9ceccf9eb1c128a99",
+    "receiptHash": "3EE47BC4EF962301B6AC8532D4468D45",
+    "timestamp": "2026-05-09T02:32:54.200Z",
+    "createdAt": "2026-05-09T02:32:54.200Z",
+    "updatedAt": "2026-05-09T02:32:54.200Z"
+  },
+  {
+    "id": "8422b211-32e3-44b0-a5f0-0acc079c6897",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "e5581db6-08b6-4ab5-a8ce-2a7a8c6c8b41",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "f9326ddf97f2c5a75aaaa7e795b8a3fd94b0b09136e6eadfbdb3746a616e16a7",
+    "receiptHash": "A902F231CFB282BE1AF33D711807EAA5",
+    "timestamp": "2026-05-08T03:32:54.200Z",
+    "createdAt": "2026-05-08T03:32:54.200Z",
+    "updatedAt": "2026-05-08T03:32:54.200Z"
+  },
+  {
+    "id": "1c256bfb-79d7-46a2-bcf0-d042dc17f928",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "86ebec47-91fc-4cbd-ad69-e69d0490d186",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "fd270f6f515cc1a6cda9534fee75c67bb683b88374e1400de531389411fee952",
+    "receiptHash": "2D62610319F5FC0B97620E6935C89C39",
+    "timestamp": "2026-05-07T04:32:54.200Z",
+    "createdAt": "2026-05-07T04:32:54.200Z",
+    "updatedAt": "2026-05-07T04:32:54.200Z"
+  },
+  {
+    "id": "770caabe-e23f-4c80-b341-aa50e3d0aa3a",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "88b430c5-56ce-4db9-9e62-3f1adc68464e",
+    "optionIds": [
+      "ac247cfe-7e1d-4419-bbfb-f0755afad2e9"
+    ],
+    "hash": "921f02c596e611bc1a9075536d1e2fbc17a3fec23c1ae772555dfc84ca47c801",
+    "receiptHash": "67F1ED776C2193FDB9CA5E3CF96E5D02",
+    "timestamp": "2026-05-06T05:32:54.200Z",
+    "createdAt": "2026-05-06T05:32:54.200Z",
+    "updatedAt": "2026-05-06T05:32:54.200Z"
+  },
+  {
+    "id": "0981a80a-be2c-4c53-bafa-c44358872413",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "6c8cd929-279a-4d2b-8de1-da9e55bf03b7",
+    "optionIds": [
+      "cdd416c7-6ea4-42a4-bf7a-82cd9db2deff"
+    ],
+    "hash": "af83522e35c8e1905196a80c01b64b99b66d24117e9f25ccdd1194e8b1ca3ed4",
+    "receiptHash": "29D733887BA742B3B9D52C6AC0657E19",
+    "timestamp": "2026-05-05T06:32:54.200Z",
+    "createdAt": "2026-05-05T06:32:54.200Z",
+    "updatedAt": "2026-05-05T06:32:54.200Z"
+  },
+  {
+    "id": "2ded8f42-dbed-42ff-a9cb-9ccb902be454",
+    "pollId": "f695fd60-ecf9-4f87-852e-ef57789bc2d6",
+    "voteTokenId": "ce90bd36-1ac3-47cd-8a30-492c4c444c37",
+    "optionIds": [
+      "e5d44e5c-bbba-425f-9c04-724654e0e82b"
+    ],
+    "hash": "a9f98f58aef2939c9b65b814a2da08712560295748ff377bcbedcfd50ab9c9c0",
+    "receiptHash": "045D738AAD1DB88AF886BD54249C54BD",
+    "timestamp": "2026-05-04T07:32:54.200Z",
+    "createdAt": "2026-05-04T07:32:54.200Z",
+    "updatedAt": "2026-05-04T07:32:54.200Z"
+  },
+  {
+    "id": "c9fc1bb7-d298-4028-a4cb-51d2883db74d",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "2bf6dd55-a22f-4347-b1e3-038949026c28",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "0ea12caf71ab6dc97fd3edb6879dd593fffac9ae6729ea3b0aea9de883ec6a90",
+    "receiptHash": "1E6AE9F8CDCDF51CE9513B260230DB0E",
+    "timestamp": "2026-06-13T07:32:54.200Z",
+    "createdAt": "2026-06-13T07:32:54.200Z",
+    "updatedAt": "2026-06-13T07:32:54.200Z"
+  },
+  {
+    "id": "be8acf1f-3561-45dd-a384-ba6db078381a",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "3ca88f04-2f96-41d7-b0fe-8b119a45e081",
+    "optionIds": [
+      "927858c7-2c10-4091-91a8-82212f581fad"
+    ],
+    "hash": "702c5902e38b80979ee85a93fb4dfa9b07ca5498449facdb85612351d9e14b87",
+    "receiptHash": "0091630F86CEFE94B348E7554C8D093A",
+    "timestamp": "2026-06-12T08:32:54.200Z",
+    "createdAt": "2026-06-12T08:32:54.200Z",
+    "updatedAt": "2026-06-12T08:32:54.200Z"
+  },
+  {
+    "id": "0c540138-4259-4500-ba50-8b66ab08de16",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "c9b182a2-cb1f-4dcc-bc1e-6273563f3f8b",
+    "optionIds": [
+      "927858c7-2c10-4091-91a8-82212f581fad"
+    ],
+    "hash": "30f1c4e5455dcfaa0518bdf437f7da3062d640c450a874c5b82410580f61a304",
+    "receiptHash": "4559E084BB50DB98877FFEB9EF6FB3A5",
+    "timestamp": "2026-06-11T09:32:54.200Z",
+    "createdAt": "2026-06-11T09:32:54.200Z",
+    "updatedAt": "2026-06-11T09:32:54.200Z"
+  },
+  {
+    "id": "106a400f-84f9-4ce5-93c9-3204316843fd",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "394c8fc8-a315-4741-aa1b-919eec488ba3",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "3c4f7449ca62e88eef0a37b8d211a896d2587d746e372acce143eee1c0895333",
+    "receiptHash": "AC019BDF61E2258E6690005515F2A4AD",
+    "timestamp": "2026-06-10T10:32:54.200Z",
+    "createdAt": "2026-06-10T10:32:54.200Z",
+    "updatedAt": "2026-06-10T10:32:54.200Z"
+  },
+  {
+    "id": "3b7622bb-f497-490b-8094-5970abea1a05",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "f6cb3b91-15fc-4fa7-ae70-b46b6f5b522c",
+    "optionIds": [
+      "c24bc435-35d6-4efd-9112-dbaecf6d02b0"
+    ],
+    "hash": "b0bed145cfe3fab08ccd787f7d1a3a9d7f409e0964c3b36d223465014a6b2774",
+    "receiptHash": "6A0F1F50EEC438A3DA570B8CE9B92AD6",
+    "timestamp": "2026-06-09T11:32:54.200Z",
+    "createdAt": "2026-06-09T11:32:54.200Z",
+    "updatedAt": "2026-06-09T11:32:54.200Z"
+  },
+  {
+    "id": "cc6e8b9b-4737-4dd8-9305-65e7a3838876",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "4c695792-d73e-46a1-ba7e-5dc1d1b7f121",
+    "optionIds": [
+      "927858c7-2c10-4091-91a8-82212f581fad"
+    ],
+    "hash": "6c7c2ba0b3bb3a3f2b00c262e5ab93107eabb1d41c46bf50459affa18f191640",
+    "receiptHash": "48DCF2C02FEFA07BFCF411E43C286043",
+    "timestamp": "2026-06-08T12:32:54.200Z",
+    "createdAt": "2026-06-08T12:32:54.200Z",
+    "updatedAt": "2026-06-08T12:32:54.200Z"
+  },
+  {
+    "id": "860b4490-1c6d-4544-a2cb-f13768ecc5fe",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "637a1d21-ff0b-4671-b8f6-ee831cc2dc80",
+    "optionIds": [
+      "c24bc435-35d6-4efd-9112-dbaecf6d02b0"
+    ],
+    "hash": "b08f29182e82efb39f4ca811a4bede7d1bcfcd519bccf25dc57e6b9475e456a7",
+    "receiptHash": "23DB8C8C2C9FD1A2002E7E23086AE56E",
+    "timestamp": "2026-06-07T13:32:54.200Z",
+    "createdAt": "2026-06-07T13:32:54.200Z",
+    "updatedAt": "2026-06-07T13:32:54.200Z"
+  },
+  {
+    "id": "5c86dd3b-5484-4f48-991d-69630de64fd9",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "660fcbc1-8fd8-4f0f-800b-25b2b30a28c1",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "342b40d1dccb0a1a84672a6e9d36edcf1cc8a8b3c1d510433e6a15942251f91b",
+    "receiptHash": "B9EBCD0323BF8F3ACDC6ABC6E0206ECD",
+    "timestamp": "2026-06-06T14:32:54.200Z",
+    "createdAt": "2026-06-06T14:32:54.200Z",
+    "updatedAt": "2026-06-06T14:32:54.200Z"
+  },
+  {
+    "id": "acce8ad6-ae7a-478b-9a41-f60fe10eb880",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "c470c78e-d74d-4ece-89d5-cbb4236697a8",
+    "optionIds": [
+      "927858c7-2c10-4091-91a8-82212f581fad"
+    ],
+    "hash": "cb3c674f28c0defa1a667791b4a86ecfaa34d173a0ad27d6dbccb8fb96108e86",
+    "receiptHash": "224813854FC547D3D500E31D2B24D4F5",
+    "timestamp": "2026-06-05T15:32:54.200Z",
+    "createdAt": "2026-06-05T15:32:54.200Z",
+    "updatedAt": "2026-06-05T15:32:54.200Z"
+  },
+  {
+    "id": "a122f1ca-44ca-4100-9739-1e303fc9d04d",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "ff532d69-d5b9-4366-94b9-74622ab50207",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "dc43a5844bb539fa14dffedf0499c7bef4a6810948dc0fce756719aacea970b9",
+    "receiptHash": "52960C23CB5D3B4C9771F7ED526EF277",
+    "timestamp": "2026-06-04T16:32:54.200Z",
+    "createdAt": "2026-06-04T16:32:54.200Z",
+    "updatedAt": "2026-06-04T16:32:54.200Z"
+  },
+  {
+    "id": "62231016-2652-4e73-ac08-1d1133a82329",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "90406451-2849-40d9-ba13-36e8c0723df1",
+    "optionIds": [
+      "927858c7-2c10-4091-91a8-82212f581fad"
+    ],
+    "hash": "d48b99cd5147116395279b61f4411e98628a500968d76c22a024b97e39ef806e",
+    "receiptHash": "38A0BD94BB9D13704BD808104BA8F16E",
+    "timestamp": "2026-06-03T17:32:54.200Z",
+    "createdAt": "2026-06-03T17:32:54.200Z",
+    "updatedAt": "2026-06-03T17:32:54.200Z"
+  },
+  {
+    "id": "8177b784-6f60-4559-a3a0-cf44bbf2ee69",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "098e4908-633c-486b-ae19-8c77f2bf2f72",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "0b13cfc476d1f49fc4bc4ba078a57003fd7527c14456081a24593e7651e381f9",
+    "receiptHash": "D417A98532953F2125257A813C0014A1",
+    "timestamp": "2026-06-02T18:32:54.200Z",
+    "createdAt": "2026-06-02T18:32:54.200Z",
+    "updatedAt": "2026-06-02T18:32:54.200Z"
+  },
+  {
+    "id": "6ac30e3e-8f7a-4c74-ba55-508ca0ce22c5",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "7a3046c5-a1f6-4425-9129-f8b26bc339bb",
+    "optionIds": [
+      "c24bc435-35d6-4efd-9112-dbaecf6d02b0"
+    ],
+    "hash": "441c2231c775869f3b3cb91e0101d76b5d6340e059646fb1f8c09f65ffe2a9e7",
+    "receiptHash": "36EFF493BEEED02381A8EF73ABE00BD2",
+    "timestamp": "2026-06-01T19:32:54.200Z",
+    "createdAt": "2026-06-01T19:32:54.200Z",
+    "updatedAt": "2026-06-01T19:32:54.200Z"
+  },
+  {
+    "id": "c3a33d69-375b-4049-ad3e-f37bce0fbe03",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "283a5781-12ec-45ed-aa8f-996333d141b2",
+    "optionIds": [
+      "f4d68e67-7886-446f-a20d-b2123aec1700"
+    ],
+    "hash": "af6970db43b4a6c5171667db26fac8399f705c0150104a7bb00f53b0ce97f51b",
+    "receiptHash": "90EB5F5C2892FDAA77228D1350FE634D",
+    "timestamp": "2026-05-31T20:32:54.200Z",
+    "createdAt": "2026-05-31T20:32:54.200Z",
+    "updatedAt": "2026-05-31T20:32:54.200Z"
+  },
+  {
+    "id": "42ab2536-6960-4282-9237-b03326012e82",
+    "pollId": "98754e5c-6e8c-4c2a-ac83-f49e30c40510",
+    "voteTokenId": "448004e1-6907-4123-8191-6bbee1682451",
+    "optionIds": [
+      "c24bc435-35d6-4efd-9112-dbaecf6d02b0"
+    ],
+    "hash": "067bfbec42f7f4350eb598a28597d63fb1f907078a9805715d72992622c03127",
+    "receiptHash": "0D2ABAC5076FEC141CB1FFA17F5F81AD",
+    "timestamp": "2026-05-30T21:32:54.200Z",
+    "createdAt": "2026-05-30T21:32:54.200Z",
+    "updatedAt": "2026-05-30T21:32:54.200Z"
+  }
+]

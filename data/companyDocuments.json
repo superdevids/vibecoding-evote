@@ -1,0 +1,35 @@
+[
+  {
+    "id": "23a16fac-cbd6-480e-8717-8b994eda71c4",
+    "title": "AD/ART Organisasi",
+    "description": "Anggaran Dasar dan Anggaran Rumah Tangga Organisasi",
+    "filePath": "/uploads/ad-art-2026.pdf",
+    "category": "Dokumen Hukum",
+    "acknowledgedBy": [],
+    "isRequired": true,
+    "createdAt": "2026-03-18T07:32:54.200Z",
+    "updatedAt": "2026-03-18T07:32:54.200Z"
+  },
+  {
+    "id": "6a902232-7516-444e-bc73-32fc9dfc7294",
+    "title": "Tata Tertib Pemilihan",
+    "description": "Peraturan dan tata cara pemilihan ketua dan pengurus",
+    "filePath": "/uploads/tata-tertib-pemilihan.pdf",
+    "category": "Dokumen Pemilihan",
+    "acknowledgedBy": [],
+    "isRequired": true,
+    "createdAt": "2026-04-17T07:32:54.200Z",
+    "updatedAt": "2026-04-17T07:32:54.200Z"
+  },
+  {
+    "id": "c611c1ed-edd7-4b74-a255-7e2207a80259",
+    "title": "SK Panitia Pemilihan 2026",
+    "description": "Surat Keputusan pembentukan panitia pemilihan periode 2026",
+    "filePath": "/uploads/sk-panitia-2026.pdf",
+    "category": "Dokumen Pemilihan",
+    "acknowledgedBy": [],
+    "isRequired": false,
+    "createdAt": "2026-05-02T07:32:54.200Z",
+    "updatedAt": "2026-05-02T07:32:54.200Z"
+  }
+]

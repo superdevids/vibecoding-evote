@@ -1,0 +1,16 @@
+[
+  {
+    "id": "settings-1",
+    "organizationName": "EVote",
+    "organizationLogo": "/logo.svg",
+    "activePeriod": "2026",
+    "defaultTimezone": "Asia/Jakarta",
+    "defaultQuorumPercentage": 50,
+    "defaultRankingMethod": "borda",
+    "voteHashSalt": "evote-salt-2026",
+    "retentionMappingDays": 365,
+    "allowPublicResultView": true,
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]

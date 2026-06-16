@@ -1,36 +1,120 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EVote — Suara Anda, Tercatat & Terverifikasi
 
-## Getting Started
+Sistem voting/pemilihan organisasi berbasis web yang transparan dengan **blockchain-style audit log**, ranked-choice voting, verifikasi integritas, dan manajemen anggota.
 
-First, run the development server:
+## Fitur Utama
+
+- **Pemilihan Transparan** — Setiap suara dicatat dalam rantai hash (blockchain-style audit log) untuk integritas data
+- **Ranked-Choice Voting (Borda)** — Mendukung sistem voting peringkat
+- **Verifikasi Integritas** — Pemilih dapat memverifikasi bahwa suara mereka tercatat tanpa mengungkap pilihan
+- **Vote Receipts** — Setiap pemilih menerima receipt hash untuk verifikasi mandiri
+- **Manajemen Anggota** — Dukungan unit organisasi, foto, NIK, status verifikasi
+- **Role-Based Access Control** — Super Admin, Election Committee, Verifier, Member
+- **Diskusi & Sengketa** — Forum diskusi dan mekanisme sengketa per pemilihan
+- **Pengumuman & Dokumen** — Pengumuman terarah per unit organisasi dengan tracking read status
+- **Ekspor Laporan** — Excel (XLSX) dan PDF
+- **Notifikasi** — Notifikasi per pengguna
+
+## Tech Stack
+
+| Teknologi | Kegunaan |
+|---|---|
+| **Next.js 16** (App Router) | Framework full-stack |
+| **TypeScript 5** | Bahasa pemrograman |
+| **React 19** | UI Library |
+| **Tailwind CSS 4** | Styling |
+| **NextAuth.js v5** | Autentikasi (credentials) |
+| **Prisma 7** | ORM (MySQL) |
+| **TanStack React Query 5** | Data fetching & caching |
+| **Zod** | Validasi form & data |
+| **Recharts** | Grafik & visualisasi |
+| **Lucide React** | Ikon |
+| **Radix UI** | Primitive components |
+
+## Database
+
+Mendukung dua mode penyimpanan:
+
+- **JSON Driver** (`DB_DRIVER=json`) — Penyimpanan file JSON lokal (default, tanpa database)
+- **MySQL** (`DB_DRIVER=mysql`) — Menggunakan Prisma ORM
+
+## Panduan Memulai
+
+### Prasyarat
+
+- Node.js 18+
+- npm / yarn / pnpm / bun
+
+### Instalasi
 
 ```bash
+# Clone repositori
+git clone https://github.com/superdevids/vibecoding-evote.git
+cd evoting
+
+# Install dependencies
+npm install
+
+# Salin file environment
+cp .env.example .env.local
+
+# Jalankan development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buka [http://localhost:3000](http://localhost:3000) di browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Seed Database
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run seed
+```
 
-## Learn More
+## Scripts
 
-To learn more about Next.js, take a look at the following resources:
+| Script | Perintah |
+|---|---|
+| `dev` | `next dev` |
+| `build` | `next build` |
+| `start` | `next start` |
+| `lint` | `eslint .` |
+| `seed` | `tsx scripts/seed.ts` |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Struktur Direktori
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+src/
+  app/               # Halaman (App Router)
+    (authenticated)/ # Halaman yang membutuhkan login
+    api/             # Route handlers
+    login/           # Halaman login
+  components/        # Shared components
+    charts/          # Grafik
+    layout/          # Layout components
+    polls/           # Komponen polling
+    ui/              # UI primitives
+  lib/               # Business logic
+    auth/            # NextAuth configuration
+    db/              # Database drivers (JSON, Prisma)
+    export/          # Export XLSX, PDF
+    hooks/           # Custom hooks
+    types/           # TypeScript types
+    validations/     # Zod schemas
+  data/              # JSON file storage (default)
+  prisma/            # MySQL Prisma schema
+```
 
-## Deploy on Vercel
+## Lingkungan
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Salin `.env.example` ke `.env.local` dan sesuaikan:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Variabel | Deskripsi |
+|---|---|
+| `AUTH_SECRET` | Secret untuk NextAuth.js |
+| `DB_DRIVER` | `json` atau `mysql` |
+| `VOTE_ENCRYPTION_KEY` | Kunci enkripsi suara |
+| `DATABASE_URL` | URL MySQL (jika DB_DRIVER=mysql) |
+
+## Lisensi
+
+Hak cipta © 2026 — EVote
